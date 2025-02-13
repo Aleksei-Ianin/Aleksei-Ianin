@@ -11,7 +11,7 @@
 
 ## Languages:
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJlYzNjbXR6cmUwcm5zbHUwdTlyNXkwdWo0eGQ2djEwc21qNTcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="30"/> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJlYzNjbXR6cmUwcm5zbHUwdTlyNXkwdWo0eGQ2djEwc21qNTcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50"/> 
  
 <!--
 **Aleksei-Ianin/Aleksei-Ianin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
