@@ -2,7 +2,7 @@ a<h1 align="center">Hi there, I'm Aleksei</a>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF6dHB1NjBuMGhxMXkyZzY1dXFyYm10ZnNldHB2c3ViZzB0bnZteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T5xJw3MlEZAQ3hyrct/giphy.gif" width="40"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+science+student+from+Russia)](https://git.io/typing-svg)
-# I'm a Team Leader, Developer, and Mentor! 👋
+# 
 -  I'm currently Studying at [RTU Mirea](https://www.mirea.ru).
 -  2025 Goals: Get a job in the field of data science.
 <!--
