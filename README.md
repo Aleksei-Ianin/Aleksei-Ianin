@@ -11,7 +11,7 @@
 
 ## Languages:
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJlYzNjbXR6cmUwcm5zbHUwdTlyNXkwdWo0eGQ2djEwc21qNTcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50"/> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJlYzNjbXR6cmUwcm5zbHUwdTlyNXkwdWo0eGQ2djEwc21qNTcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50"/> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2IzZTZqY21mcmpsejcxOWFkOXdkeTU1ZnJmenRmejdmNWYweThxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="50"/> 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2IzZTZqY21mcmpsejcxOWFkOXdkeTU1ZnJmenRmejdmNWYweThxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="50"/> 
 
  
