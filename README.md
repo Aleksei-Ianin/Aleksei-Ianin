@@ -1,5 +1,5 @@
 a<h1 align="center">Hi there, I'm Aleksei</a> 
-<img src="https://giphy.com/stickers/capybara-capy-capyfun-T5xJw3MlEZAQ3hyrct" width="100"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF6dHB1NjBuMGhxMXkyZzY1dXFyYm10ZnNldHB2c3ViZzB0bnZteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T5xJw3MlEZAQ3hyrct/giphy.gif" width="100"/>
 <h3 align="center">Data Science Student from Russia 🇷🇺</h3>
 
 
