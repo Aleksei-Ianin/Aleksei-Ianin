@@ -5,7 +5,7 @@
 ## About me:
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB3NmR1OXFxcWo1bzhwano1cGdlaXdmNjNuODg2ZGttazY5Z3BpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mrkk6ctjilhoKnFH8d/giphy.gif" width="30"/>  I'm currently Studying at [RTU Mirea](https://www.mirea.ru).
   
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnExeTRnMDR3ZjhvazI1dXdjZXpoeGEzZG95YzF0d2VxdnFtYmZtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/haaX80aD0TNXtJIi1X/giphy.gif" width="50"/> 2025 2025 Goals: Get a job in the field of data science. 
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnExeTRnMDR3ZjhvazI1dXdjZXpoeGEzZG95YzF0d2VxdnFtYmZtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/haaX80aD0TNXtJIi1X/giphy.gif" width="40"/> 2025 2025 Goals: Get a job in the field of data science. 
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdnZThieWdocHF3aHJ5OTZhOTJyZnZ3enNjNHluOXBqYzJndGVyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="30"/> How to reach me: [Telegram](https://t.me/Alexlaaaa)
 
