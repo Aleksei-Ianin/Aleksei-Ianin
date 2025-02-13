@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aleksei</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://giphy.com/stickers/capybara-capy-capyfun-T5xJw3MlEZAQ3hyrct" height="32"/></h1>
 <h3 align="center">Data Science Student from Russia 🇷🇺</h3>
 
 
