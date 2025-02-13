@@ -1,7 +1,9 @@
 a<h1 align="center">Hi there, I'm Aleksei</a> 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF6dHB1NjBuMGhxMXkyZzY1dXFyYm10ZnNldHB2c3ViZzB0bnZteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T5xJw3MlEZAQ3hyrct/giphy.gif" width="40"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<h3 align="center">Data Science Student from Russia</a> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV5Z2s2YTVscXpxbmtlZnAzMTR4d2ppZXBoeDZvczdvN3dtbDR0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzihYbSXWZcu9VVWE0/giphy.gif" width="40"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <!--
 **Aleksei-Ianin/Aleksei-Ianin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
